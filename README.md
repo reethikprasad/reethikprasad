@@ -21,7 +21,11 @@
 - 💬 Ask me about Front-End Development, Web-Design, UI/UX.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love to read books and play video games
+- ⚡ Fun fact:Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+     // Which came first: the chicken or the egg?
+     console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+     >>> ["🐔", "🐣", "🐥", "🥚"];
 
 
 ## SKILLS
