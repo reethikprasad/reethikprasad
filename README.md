@@ -12,7 +12,9 @@
   </samp>
 </p>
 
-
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
 
 - 🔭 I’m currently working on JavaScript and ReactJS.
 - 🌱 I’m currently learning MERN Stack.
@@ -26,6 +28,7 @@
      console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
      ["🐔", "🐣", "🐥", "🥚"];
+     
 
 
 ## SKILLS
@@ -45,9 +48,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reethikprasad&theme=tokyonight_duo" alt="the-coder-dude" width="47.5%" />
 <p/>
 
-<p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
-</p>
+
 <!--
 **reethikprasad/reethikprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
