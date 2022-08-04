@@ -13,7 +13,7 @@
 </p>
 
 <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="150px" alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px" alt="programmergif">
 </p>
 
 - 🔭 I’m currently working on JavaScript and ReactJS.
